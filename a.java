@@ -14,3 +14,8 @@ git branch -----
 This creates a new pointer to the same commit you’re currently on.
 hello this going to commit after rese
 this is to identify the branch 
+
+
+
+
+changes done not commited
